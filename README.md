@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhi220402
 - 👀 I’m interested in learning data science and building various machine learning models.
-- 🌱 I’m currently learning data analyst,machine learning algorithms.
+- 🌱 Profficient on working with data analyst,machine learning algorithms.
 - 📫 Reach me on asaha5356@gmail.com
 
 <!---
